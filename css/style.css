@@ -1,0 +1,171 @@
+body{
+	background-image: url("background.jpg");
+	background-repeat: no-repeat;
+	background-position: right top;
+	background-attachment: fixed;
+}	
+#myheader{
+	background-color: lightblue;
+	color: black;
+	padding: 40px;
+	text-align: center;
+}
+.h{
+	background-color: tomato;
+	color: white;
+	padding: 10px;
+	
+}
+.wk{
+	width: 100%;
+	height: 500px;
+}
+.yt{
+	margin-left:100px ;
+}
+.d1{
+	width: 100px;
+	height: 100px;
+	text-align: center;
+	padding: 100px;
+	background-color: green;
+	
+}
+.d2{
+	width: 100px;
+	height: 100px;
+	text-align: center;
+	padding: 100px;
+	background-color: green;
+	opacity: 0.7;
+	margin-left: 300px;
+	margin-top: -300px;
+	
+}
+.d3{
+	width: 100px;
+	height: 100px;
+	text-align: center;
+	padding: 100px;
+	background-color: green;
+	opacity: 0.4;/*green background with 40% opacity*/
+	margin-left: 600px;
+	margin-top: -300px;
+}
+.d4{
+	width: 100px;
+	height: 100px;
+	text-align: center;
+	padding: 100px;
+	background: rgba(0,128,0,1);
+	
+}
+.d5{
+	width: 100px;
+	height: 100px;
+	text-align: center;
+	padding: 100px;
+	background-color: rgba(0, 128, 0, 0.6);
+	
+	margin-left: 300px;
+	margin-top: -300px;
+	
+}
+.d6{
+	width: 100px;
+	height: 100px;
+	text-align: center;
+	padding: 100px;
+	background-color: rgba(0, 128, 0, 0.3);
+	/*green background with 30% opacity*/
+	margin-left: 600px;
+	margin-top: -300px;}
+	.d7{
+	width: 100px;
+	height: 100px;
+	text-align: center;
+	padding: 100px;
+	background-color: rgba(0, 128, 0, 0.1);
+	/*green background with 10% opacity*/
+	margin-left: 900px;
+	margin-top: -300px;}
+	.h1{
+		border-style: dotted;
+		padding: 10px;
+		color: red;
+	}
+	.h3{
+		border-style: dashed;
+		padding: 10px;
+		color: rgba(0, 0, 128, 0.7);
+	}
+	.h4{
+		border-style: solid;
+		padding: 10px;
+		color: green;
+	}
+
+	.h5{
+		border-style: double;
+		padding: 10px;
+		color: blue;
+	}
+	.h6{
+		border-style: groove;
+		
+		
+	}
+	.h7{
+		border-style: ridge;
+		border-color: red;
+		border-width: 5px;
+}
+	.h8{
+		border-style: inset;
+		border-width: medium;
+		
+	}
+	.h9{
+		border-style: outset;
+		border-width: thick;
+		}
+		.h10{
+		border-style: none;
+		
+		
+	}
+	.h11{
+		border-style: hidden;
+		
+		
+	}
+	.h12{
+		border-style: dotted dashed solid double;
+		
+		border-color: green;
+	}
+	p.p1{
+		border-top-style: dotted;
+		border-right-style: solid;
+		border-bottom-style: dashed;
+		border-left-style: solid;
+		padding: 10px;
+	}
+	p.p2{
+		border-style: dotted solid;
+		padding: 5px;
+	}
+	p.p3{
+		border: 7px solid dodgerblue;
+	}
+	p.p4{
+		border-left: 5px solid red;
+	}
+	p.p5{
+		border-bottom: 3px solid blue;
+	}
+	p.p6{
+		border: 2px solid red;
+		border-radius: 5px;
+		padding: 10px;
+	}
